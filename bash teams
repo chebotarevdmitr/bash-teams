@@ -1,0 +1,20 @@
+astra@astra:~$ whatis grep
+grep (1)             - print lines matching a pattern                //печатайте линии, соответствующие шаблону
+astra@astra:~$ whatis mv
+mv (1)               - перемещает (переименовывает) файлы и...
+astra@astra:~$ whatis df
+df (1)               - отчёт об использовании дискового пр...
+astra@astra:~$ whatis find
+find (1)             - search for files in a directory hierarchy     //  поиск файлов в иерархии каталогов
+astra@astra:~$ whatis mv
+mv (1)               - перемещает (переименовывает) файлы и...
+astra@astra:~$ whatis ping
+ping (8)             - посылает пакеты ICMP ECHO_REQUEST узлам сети
+astra@astra:~$ whatis rmdir
+rmdir (2)            - удалить каталог
+rmdir (1)            - удаляет пустые каталоги
+astra@astra:~$ whatis ifconfig
+ifconfig (8)         - настройка параметров сетевого интер...
+astra@astra:~$ whatis chmod
+chmod (2)            - изменяет права доступа к файлу
+chmod (1)            - изменить биты режима (прав) доступа к...
